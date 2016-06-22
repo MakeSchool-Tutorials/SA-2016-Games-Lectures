@@ -1,5 +1,5 @@
 ---
-title: "Analytical Game Design - Core Loops, Compulsion Loops"
+title: "Analytical Game Design"
 slug: analytical-game-design
 ---
 
